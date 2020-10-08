@@ -1,0 +1,7 @@
+#Thu Oct 08 09:29:06 ICT 2020
+base.0=C\:\\Users\\sapuser\\Documents\\GitHub\\mlkit\\android\\vision-quickstart\\app\\build\\intermediates\\dex\\debug\\shrunkDex\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\sapuser\\Documents\\GitHub\\mlkit\\android\\vision-quickstart\\app\\build\\intermediates\\dex\\debug\\shrunkDex\\classes2.dex

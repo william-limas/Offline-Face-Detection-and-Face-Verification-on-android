@@ -1,0 +1,383 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\4fabbc17480a5e73de0fa07929e7ff6f\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\0da60a245b38b72716cd3bf3fe222d94\jetified-tensorflow-lite-support-0.0.0-nightly\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\67d605442af97c02547e03a338634384\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\808db9eacfff618b7ffb7cefb606dbb6\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d7ab944764a96939d5925c6bb6162543\jetified-tensorflow-lite-select-tf-ops-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.mlkit:face-detection:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\df83ab20416de6b74bfdbec4fb67f0a9\jetified-face-detection-16.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\bd9eaa2992ad422b7eac643b0aac27f7\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\8794b7aeffff0a832f19912061e9c858\jetified-play-services-vision-face-contour-internal-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:image-labeling-common:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b1aa5d3dbc0adb4594717cd15c045739\jetified-image-labeling-common-16.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\71b56efc7eea7f771331de0a381c9d3a\jetified-play-services-vision-20.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b75ef7973460826f45b2f53addf8c3e1\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6827555b0ad15cb6a3d49a2a3547c354\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\f2744aaf621203e8d72c94b167ac64b9\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\e75c81c0ef40b44519331a9385adf4c6\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a54f118c136f1369197dbff96f694e38\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\035f3ead55434a936fac43666c47076e\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\63eb00b0bf61ca493168a066cb8498da\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\7891f0d20ff439e3f9e3aa12fecc3819\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6151e126586f4a83f38912a51e2a7b82\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2e34ef014dc78a39de7dc7d54c23f54d\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\380f63557270475c8acbaa01136750a7\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\95625912cc43b3efb0ad0faa42339d43\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\bbeb49b76f836840afd2c7da05a4a8b8\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a814bd133b4039435948c0667ee48966\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\9eea074cf652341d7c423b14c7cccd8e\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\f65d04a2562ed7058bccea557754c28a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6f4cd621519e3e202420d4703573fbf0\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\65a54277910d0fe1727441ce8390724a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\e09806fedcaf73ee0e22595e708735dc\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\cf83f438fd751d9ff271198248ec750b\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\bc3d08ee1c4710b4b0c8f772d2326f42\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\8fb84686ddcc564983df753d3c52ba17\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a8b5f2f918ccd5b61b38ba8ba7a0ef9d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\1a2bb624cb819bad696038cbc09a3483\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b438d021203b1b2cd4bf7ee7b187a00e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:5:5-35
+uses-sdk
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\4fabbc17480a5e73de0fa07929e7ff6f\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\4fabbc17480a5e73de0fa07929e7ff6f\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\0da60a245b38b72716cd3bf3fe222d94\jetified-tensorflow-lite-support-0.0.0-nightly\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\0da60a245b38b72716cd3bf3fe222d94\jetified-tensorflow-lite-support-0.0.0-nightly\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\67d605442af97c02547e03a338634384\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\67d605442af97c02547e03a338634384\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\808db9eacfff618b7ffb7cefb606dbb6\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\808db9eacfff618b7ffb7cefb606dbb6\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d7ab944764a96939d5925c6bb6162543\jetified-tensorflow-lite-select-tf-ops-0.0.0-nightly\AndroidManifest.xml:8:5-47
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d7ab944764a96939d5925c6bb6162543\jetified-tensorflow-lite-select-tf-ops-0.0.0-nightly\AndroidManifest.xml:8:5-47
+MERGED from [com.google.mlkit:face-detection:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\df83ab20416de6b74bfdbec4fb67f0a9\jetified-face-detection-16.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:face-detection:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\df83ab20416de6b74bfdbec4fb67f0a9\jetified-face-detection-16.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\bd9eaa2992ad422b7eac643b0aac27f7\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\bd9eaa2992ad422b7eac643b0aac27f7\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\8794b7aeffff0a832f19912061e9c858\jetified-play-services-vision-face-contour-internal-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\8794b7aeffff0a832f19912061e9c858\jetified-play-services-vision-face-contour-internal-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:image-labeling-common:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b1aa5d3dbc0adb4594717cd15c045739\jetified-image-labeling-common-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:image-labeling-common:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b1aa5d3dbc0adb4594717cd15c045739\jetified-image-labeling-common-16.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\71b56efc7eea7f771331de0a381c9d3a\jetified-play-services-vision-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\71b56efc7eea7f771331de0a381c9d3a\jetified-play-services-vision-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b75ef7973460826f45b2f53addf8c3e1\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b75ef7973460826f45b2f53addf8c3e1\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6827555b0ad15cb6a3d49a2a3547c354\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6827555b0ad15cb6a3d49a2a3547c354\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\f2744aaf621203e8d72c94b167ac64b9\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\f2744aaf621203e8d72c94b167ac64b9\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\e75c81c0ef40b44519331a9385adf4c6\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\e75c81c0ef40b44519331a9385adf4c6\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a54f118c136f1369197dbff96f694e38\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a54f118c136f1369197dbff96f694e38\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\035f3ead55434a936fac43666c47076e\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\035f3ead55434a936fac43666c47076e\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\63eb00b0bf61ca493168a066cb8498da\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\63eb00b0bf61ca493168a066cb8498da\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\7891f0d20ff439e3f9e3aa12fecc3819\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\7891f0d20ff439e3f9e3aa12fecc3819\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6151e126586f4a83f38912a51e2a7b82\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6151e126586f4a83f38912a51e2a7b82\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2e34ef014dc78a39de7dc7d54c23f54d\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2e34ef014dc78a39de7dc7d54c23f54d\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\380f63557270475c8acbaa01136750a7\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\380f63557270475c8acbaa01136750a7\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\95625912cc43b3efb0ad0faa42339d43\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\95625912cc43b3efb0ad0faa42339d43\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\bbeb49b76f836840afd2c7da05a4a8b8\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\bbeb49b76f836840afd2c7da05a4a8b8\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a814bd133b4039435948c0667ee48966\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a814bd133b4039435948c0667ee48966\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\9eea074cf652341d7c423b14c7cccd8e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\9eea074cf652341d7c423b14c7cccd8e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\f65d04a2562ed7058bccea557754c28a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\f65d04a2562ed7058bccea557754c28a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6f4cd621519e3e202420d4703573fbf0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6f4cd621519e3e202420d4703573fbf0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\65a54277910d0fe1727441ce8390724a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\65a54277910d0fe1727441ce8390724a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\e09806fedcaf73ee0e22595e708735dc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\e09806fedcaf73ee0e22595e708735dc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\cf83f438fd751d9ff271198248ec750b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\cf83f438fd751d9ff271198248ec750b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\bc3d08ee1c4710b4b0c8f772d2326f42\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\bc3d08ee1c4710b4b0c8f772d2326f42\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\8fb84686ddcc564983df753d3c52ba17\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\8fb84686ddcc564983df753d3c52ba17\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a8b5f2f918ccd5b61b38ba8ba7a0ef9d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a8b5f2f918ccd5b61b38ba8ba7a0ef9d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\1a2bb624cb819bad696038cbc09a3483\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\1a2bb624cb819bad696038cbc09a3483\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b438d021203b1b2cd4bf7ee7b187a00e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b438d021203b1b2cd4bf7ee7b187a00e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+	tools:overrideLibrary
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:15-154
+	android:targetSdkVersion
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+		MERGED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+		MERGED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+		MERGED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:13:5-157
+		INJECTED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:15:19-57
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:20:22-62
+application
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:22:5-67:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\67d605442af97c02547e03a338634384\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\67d605442af97c02547e03a338634384\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\808db9eacfff618b7ffb7cefb606dbb6\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\808db9eacfff618b7ffb7cefb606dbb6\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d7ab944764a96939d5925c6bb6162543\jetified-tensorflow-lite-select-tf-ops-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-select-tf-ops:0.0.0-nightly] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d7ab944764a96939d5925c6bb6162543\jetified-tensorflow-lite-select-tf-ops-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\8794b7aeffff0a832f19912061e9c858\jetified-play-services-vision-face-contour-internal-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\8794b7aeffff0a832f19912061e9c858\jetified-play-services-vision-face-contour-internal-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\71b56efc7eea7f771331de0a381c9d3a\jetified-play-services-vision-20.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\71b56efc7eea7f771331de0a381c9d3a\jetified-play-services-vision-20.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b75ef7973460826f45b2f53addf8c3e1\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\b75ef7973460826f45b2f53addf8c3e1\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6827555b0ad15cb6a3d49a2a3547c354\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\6827555b0ad15cb6a3d49a2a3547c354\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\e75c81c0ef40b44519331a9385adf4c6\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\e75c81c0ef40b44519331a9385adf4c6\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a54f118c136f1369197dbff96f694e38\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a54f118c136f1369197dbff96f694e38\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\cf83f438fd751d9ff271198248ec750b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\cf83f438fd751d9ff271198248ec750b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\cf83f438fd751d9ff271198248ec750b\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:24:9-44
+	android:theme
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:26:9-47
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:23:9-61
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:28:9-30:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\862cde625aad1fbef0a39de3e07c14e3\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:29:13-58
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:35:9-37:52
+	android:value
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:36:13-64
+activity#com.google.mlkit.vision.demo.StillImageActivity
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:39:9-48:20
+	android:exported
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:41:13-36
+	android:theme
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:40:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.google.mlkit.vision.demo.VerifActivity
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:50:9-54:20
+	android:exported
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:52:13-36
+	android:theme
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:51:13-42
+activity#com.google.mlkit.vision.demo.VerifActivity2
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:56:9-60:20
+	android:exported
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:58:13-36
+	android:theme
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:57:13-43
+activity#com.google.mlkit.vision.demo.StillImageActivity2
+ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:62:9-66:20
+	android:exported
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:64:13-36
+	android:theme
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:65:13-44
+	android:name
+		ADDED from C:\Users\sapuser\Documents\GitHub\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:63:13-48
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:9:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.label.defaults.internal.DefaultLabelRegistrar
+ADDED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.mlkit:image-labeling:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\45ed98d1675ccda006d0067abd13f24f\jetified-image-labeling-16.2.0\AndroidManifest.xml:12:17-132
+meta-data#com.google.firebase.components:com.google.mlkit.vision.label.custom.internal.CustomLabelRegistrar
+ADDED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.mlkit:image-labeling-custom:16.2.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\88dc71d3aa1266d2852a3f677c655b30\jetified-image-labeling-custom-16.2.0\AndroidManifest.xml:12:17-129
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\2d9ab8d407136872877ebd9a5bbe6781\jetified-play-services-mlkit-face-detection-16.1.0\AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.vkp.VkpRegistrar
+ADDED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-internal-vkp:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\a57c6d9735ffdd5348782d6314051c71\jetified-vision-internal-vkp-17.0.0\AndroidManifest.xml:12:17-103
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.0.1] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\5ecee293dc90156db572bacf3315abd6\jetified-vision-common-16.0.1\AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:16.1.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d8c7ae9ed20bec4d9f0d0f5f2405780f\jetified-common-16.1.0\AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sapuser\.gradle\caches\transforms-2\files-2.1\d39ec00c07e9cc900cbdf184774bcb6f\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
